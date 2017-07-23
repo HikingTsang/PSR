@@ -19,7 +19,9 @@
 - [PSR-0](https://github.com/HikingTsang/PSR/issues/1 "PSR-0") (已弃用)
 
 ## 参考文章
-[PHP FIG](http://www.php-fig.org/ "PHP FIG"), [PHPHub](https://psr.phphub.org/ "PHPHub"), [PHP编码规范（中文版）](https://www.kancloud.cn/thinkphp/php-fig-psr/3139 "PHP编码规范（中文版）")
+- [PHP FIG](http://www.php-fig.org/ "PHP FIG")
+- [PHPHub](https://psr.phphub.org/ "PHPHub")
+- [PHP编码规范（中文版）](https://www.kancloud.cn/thinkphp/php-fig-psr/3139 "PHP编码规范（中文版）")
 
 ## License
 
