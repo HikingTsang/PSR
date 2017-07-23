@@ -16,7 +16,7 @@
 本项目的主要面向对象是所有参与的各个成员（也就是各自框架的社区），这里是完整的 [成员列表](http://www.php-fig.org/members/)，当然，同时也欢迎其它 PHP 社区采用本规范。
 
 ## 标准列表
-
+- [PSR-0](https://github.com/HikingTsang/PSR/issues/1 "PSR-0") (已弃用)
 
 ## 参考文章
 [PHP FIG](http://www.php-fig.org/ "PHP FIG"), [PHPHub](https://psr.phphub.org/ "PHPHub"), [PHP编码规范（中文版）](https://www.kancloud.cn/thinkphp/php-fig-psr/3139 "PHP编码规范（中文版）")
