@@ -20,6 +20,7 @@
 - [PSR-1](https://github.com/HikingTsang/PSR/issues/2 "PSR-1")
 - [PSR-2](https://github.com/HikingTsang/PSR/issues/3 "PSR-2")
 - [PSR-2补充](https://github.com/HikingTsang/PSR/issues/4 "PSR-2补充")
+- [PSR-3](https://github.com/HikingTsang/PSR/issues/5 "PSR-3")
 
 ## 参考文章
 - [PHP FIG](http://www.php-fig.org/ "PHP FIG")
